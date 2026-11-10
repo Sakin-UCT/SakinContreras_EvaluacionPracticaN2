@@ -1,0 +1,38 @@
+Pregunta 1 · 4 puntos
+Muestre la definición de Prestamo, sus claves foráneas y relaciones con Equipo y Estudiante. Explique qué
+relaciona cada clave.
+Archivo y función: __________________________________________________________
+Código / respuesta:________________________________________________________
+Explicación: ______________________________________________________________
+Pregunta 2 · 3 puntos
+Muestre la función que registra un equipo. Señale dónde utiliza session.add() y cómo confirma la persistencia.
+Archivo y función: __________________________________________________________
+Código / respuesta:________________________________________________________
+Explicación: _______________________________________________________________
+Pregunta 3 · 3 puntos
+Copie una consulta ORM con select() que obtenga equipos con stock_disponible mayor que cero. Explique el
+filtro.
+Archivo y función: __________________________________________________________
+Código / respuesta:________________________________________________________
+Explicación: _______________________________________________________________
+Pregunta 4 · 4 puntos
+Muestre el código que verifica la disponibilidad antes de registrar un préstamo. ¿Qué ocurre cuando se solicita
+una cantidad superior al stock_disponible?
+Archivo y función: __________________________________________________________
+Código / respuesta:________________________________________________________
+Explicación: _______________________________________________________________
+Pregunta 5 · 3 puntos
+Muestre el código que procesa una devolución. Explique cómo restituye la disponibilidad y cómo impide una
+devolución duplicada.
+Archivo y función: __________________________________________________________
+Código / respuesta:________________________________________________________
+Explicación: _______________________________________________________________
+
+Pregunta 6 · 3 puntos
+Registre Notebook UCT con disponibilidad 5; preste 2 unidades y devuélvalas. Escriba el stock observado antes,
+después del préstamo y después de la devolución, e indique cómo lo verificó.
+Momento Disponibilidad observada
+Antes del préstamo
+Después del préstamo
+Después de la devolución
+Forma de verificación: _____________________________________________________
